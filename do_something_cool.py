@@ -3,7 +3,7 @@
 import sys
 
 def greetings(name):
-  greet = f"Hello, {name}! How are you doing today? Welcome to Snowpark!"
+  greet = f"Hello, {name}! How are you doing today? Welcome to Snowpark Python!"
   return greet
 
 if __name__ == "__main__":
